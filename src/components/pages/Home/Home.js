@@ -67,7 +67,7 @@ function Home() {
 
 export default Home;
 
-// CSS rules
+
 .home-section {
   height: 100vh;
   padding-top: 5rem;
@@ -84,3 +84,6 @@ export default Home;
   align-items: center;
 }
 
+.heading {
+  font-size: 4rem;
+}
